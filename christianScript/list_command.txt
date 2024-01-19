@@ -1,0 +1,19 @@
+
+
+Liste des commandes complémentaires
+
+
+	- ipconfig  (windows)/ ifcocnfig(ubuntu linux)           ###pour trouver l'adresse de la victime
+	- nmap -sP 192.168.1.0/24            			### scanner le réseau wifi pour trouver les appareils connectés
+	- chmod +x nom_du_script.sh          			###avant de l’exécuter
+	- ./nom_du_script.sh ip_address 
+	- tcpdump -I 						### trafic sur le réseau sur cmd 
+
+	
+
+
+
+
+
+
+
